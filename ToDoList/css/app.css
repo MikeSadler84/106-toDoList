@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+.add-form{
+    border: 1px solid #dedede;
+    text-align: center;
+    margin: 20px 200px;
+    padding: 50px;
+    border-radius: 15px;
+}
+h1{
+    background-color: #6b1818;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+#txt-task{
+    width: 60%;
+    border-radius: 10px;
+    padding: 6px 10px;
+    border: 1px solid #dedede;
+    font-size: 18px;
+}
+.btn-primary:hover{
+    background-color: #1823b9;
+    border: none;
+
+}
+.btn{
+    margin-top: -.3rem;
+
+}
+.btn-danger:hover{
+    background-color: #ec6746;
+    border: none;
+}
